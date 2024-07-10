@@ -2,10 +2,6 @@
 
 This project scrapes job listings from a specified website and analyzes the data to extract valuable insights for Python developer job skills. The primary goal is to identify the most in-demand skills and trends in the job market for Python developers.
 
-## Summary
-
-The Scraping-Analysis project is designed to help Python developers understand the skills required in the job market by scraping job listings from a target website and performing data analysis on the extracted data. By following the instructions provided, users can customize the project to search for specific skills, scrape relevant job data, and analyze the trends using a Jupyter notebook.
-
 ### Example:
 ![Project Screenshot](screnshots/img.png)
 ## Features
