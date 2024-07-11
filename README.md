@@ -81,7 +81,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 
 Feel free to modify the content as needed to better fit your project's specifics.
-
-
-
-
